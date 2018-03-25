@@ -181,7 +181,7 @@ AddSong("Rogue","Nightfall","Glitch Hop Or 110 BPM","Rogue_Nightfall.mp3","img/a
 AddSong("Rogue","Rattlesnake","Trap","Rogue_Rattlesnake.mp3","img/artists/rogue.png","rattlesnakesingle")
 AddSong("Rogue","Through The Dark","Electro","Rogue_ThroughTheDark.mp3","img/artists/rogue.png","earthep")
 
-AddSong("Sayonara Maxwell","Hopes and Dreams (Remix)","Electric","SayMaxWell_HopesAndDreams.mp3","img/artists/saymaxwell.jpg","smwutremixes")
+AddSong("Sayonara Maxwell","Hopes and Dreams","Electric","SayMaxWell_HopesAndDreams.mp3","img/artists/saymaxwell.jpg","smwutremixes")
 
 AddSong("SCNDL","The Munsta","Bounce","SCNDL_TheMunsta.mp3","img/artists/scndl.png","themunstasingle")
 AddSong("SCNDL","The Munsta<br>(AlphavibeZ Remix)","Hard Dance","SCNDL_TheMunstaAlphavibeZRemix.mp3","img/artists/scndl.png","themunstatheremixesep")
