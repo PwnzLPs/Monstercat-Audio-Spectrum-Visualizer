@@ -66,3 +66,5 @@ RegisterAlbum("monumentep","Stonebank - Monument EP",["Lost Without You","Ready"
 
 RegisterAlbum("dancetoep","Tut Tut Child - Dance To It EP",["Dance To It","Dragon Pirates","Fat Cat Adventures"])
 RegisterAlbum("askyourfriendsfirstep","Tut Tut Child - Ask Your Friends First EP",["Hot Pursuit","Breathe (feat. Danyka Nadeau)","Plain Sight (feat. Rachel Hirons)","Birds On The Wire (feat. Augustus Ghost)"])
+
+RegisterAlbum("smwutremixes","Undertale Remixes",["Hopes and Dreams [Remix]"])
